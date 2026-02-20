@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/harmanjotes/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/harmanjotcs/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00" alt="LinkedIn" /></a>
   <a href="mailto:harmanjot21754@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF00" alt="Email" /></a>
 </div>
 

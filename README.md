@@ -51,8 +51,8 @@
 
 ### 📊 `~/logs/github_activity.log`
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harman1418&show_icons=true&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&border_color=00FF00&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harman1418&show_icons=true&theme=dark&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&border_color=00FF00&hide_border=true&v=999" alt="GitHub Stats" />
   <br/>
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=harman1418&background=000000&fire=00FF00&ring=00FF00&currStreakNum=00FF00&sideNums=00FF00&sideLabels=00FF00&dates=00FF00&stroke=000000" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=harman1418&background=000000&fire=00FF00&ring=00FF00&currStreakNum=00FF00&sideNums=00FF00&sideLabels=00FF00&dates=00FF00&stroke=000000&hide_border=true" alt="GitHub Streak" />
 </div>

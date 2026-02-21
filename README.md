@@ -49,9 +49,9 @@
 
 ---
 
-### 📊 `~/logs/github_activity.log`
+### 📊 `~/logs/network_traffic.log`
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harman1418&layout=compact&bg_color=000000&title_color=00FF00&text_color=00FF00&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harman1418&bg_color=000000&color=00FF00&line=00FF00&point=00FF00&area=true&hide_border=true&hide_title=true" alt="Activity Graph" />
   <br/>
   <br/>
   <img src="https://streak-stats.demolab.com/?user=harman1418&background=000000&fire=00FF00&ring=00FF00&currStreakNum=00FF00&sideNums=00FF00&sideLabels=00FF00&dates=00FF00&stroke=000000&hide_border=true" alt="GitHub Streak" />

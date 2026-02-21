@@ -13,9 +13,12 @@
 
 > **`root@harman1418:~$ ./execute_profile.sh`**
 > 
-> `[+] Role:    Security Intern @ Ansh InfoTech`
-> `[+] Edu:     B.Tech CSE (Class of 2026)`
+> `[+] Role:    Cybersecurity Intern @ Ansh InfoTech`
+> 
+> `[+] Edu:     B.Tech CSE (2022 - 2026)`
+> 
 > `[+] Focus:   Pentesting & Web Security`
+> 
 > `[+] Base:    Ludhiana, Punjab`
 
 ### 🛠️ `~/bin/tech_stack`

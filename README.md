@@ -18,10 +18,10 @@
 > `[+] Edu:     B.Tech CSE (2022 - 2026)`
 > 
 > `[+] Focus:   Pentesting & Web Security`
->
-> Portfolio- https://harmanjot-singh.vercel.app/
 > 
 > `[+] Base:    Ludhiana, Punjab`
+> 
+> [`[+] Portfolio Here`](https://harmanjot-singh.vercel.app/)
 
 ### 🛠️ `~/bin/tech_stack`
 <p align="left">

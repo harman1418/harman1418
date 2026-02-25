@@ -18,6 +18,8 @@
 > `[+] Edu:     B.Tech CSE (2022 - 2026)`
 > 
 > `[+] Focus:   Pentesting & Web Security`
+>
+> Portfolio- https://harmanjot-singh.vercel.app/
 > 
 > `[+] Base:    Ludhiana, Punjab`
 

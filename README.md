@@ -21,7 +21,7 @@
 > 
 > `[+] Base:    Ludhiana, Punjab`
 > 
-> [`[+] Portfolio Here`](https://harmanjot-singh.vercel.app/)
+> [`[+] Portfolio Here`](harmanjot-singh.me)
 
 ### 🛠️ `~/bin/tech_stack`
 <p align="left">

@@ -21,7 +21,7 @@
 > 
 > `[+] Base:    Ludhiana, Punjab`
 > 
-> [`[+] Portfolio Here`](https://harmanjot-singh.me/)
+> <a href="https://harmanjot-singh.me/" target="_blank">`[+] Portfolio Here`</a>
 
 ### 🛠️ `~/bin/tech_stack`
 <p align="left">

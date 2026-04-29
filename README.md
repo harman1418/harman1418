@@ -40,6 +40,10 @@
 ### 📂 `~/projects/ls -la`
 
 
+**[`./vulnforge`](https://github.com/harman1418/vulnforge)**
+> `Execution:` Built an autonomous penetration testing platform using ReactJS, FastAPI, and Cloudflare's Llama-3 AI.
+> `Output:` Orchestrated OSINT tools to automate vulnerability scanning and dynamically generated enterprise-grade PDF security reports.
+
 **[`./phishing_detection`](https://github.com/harman1418/Phishing_Detection)**
 > `Execution:` Created an ML classifier with Python and XGBoost.
 > `Output:` Developed a real-time feature extractor, achieving 96.68% accuracy in live URL analysis.
@@ -47,10 +51,6 @@
 **[`./wanderchat_ai`](https://github.com/harman1418/wanderchat)**
 > `Execution:` Built an itinerary generator using ReactJS, FastAPI, and the Gemini API.
 > `Output:` Processed natural language input into custom plans, successfully tested by over 100 users.
-
-**[`./AIT-CyberSec`](https://github.com/harman1418/AIT-CyberSec)**
-> `Execution:` Maintained security testing scripts, internal vulnerability assessments, and penetration testing projects.
-> `Output:` Documented CVE-based findings, reconnaissance data, and remediation strategies for live environments.
 
 ---
 
